@@ -11,7 +11,7 @@
 - GET-запрос к OpenWeather API
 - Вывод температуры и описания погоды
 
-## Запуск
-pip install requests  (но это конечно же необязательно так как библиотека уже может быть установлена!!!!)
-python task1_jsonplaceholder.py
-python task2_openweather.py
+## Запуск в терминале
+- pip install requests  (но это конечно же необязательно так как библиотека уже может быть установлена!!!!)
+- python task1_jsonplaceholder.py
+- python task2_openweather.py
